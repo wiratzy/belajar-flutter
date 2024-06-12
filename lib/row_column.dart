@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const RowCol());
-}
-
+///latihan Row Dan Column
 class RowCol extends StatelessWidget {
   const RowCol({super.key});
 
@@ -30,3 +27,5 @@ class RowCol extends StatelessWidget {
     );
   }
 }
+
+///latihan Row Dan Column
